@@ -1,7 +1,7 @@
 ### Hi There, I'm Mario Norberto 👋
 - 🤝 I’m looking to collaborate on  opensources projects.
 - 💻 All of my projects are available here on my Github account.
-- 💬 Ask me about javascript, NodeJS, expressJS, php, Digital Electronic, microcontrollers programming and Arduino.
+- 💬 Ask me about typescript, NodeJS, Nestjs, c#, php|Laravel, Digital Electronic, microcontrollers programming and Arduino.
 - 📫 How to reach me marionorberto2018@gmail.com
 - 🌐 check my blog on meddium website <a href="https://medium.com/@marionorberto2018">meddiumProfile</a> 
 
